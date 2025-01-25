@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="cracking-tricky-java-code-challenges" target="21" />
+      <module name="cracking-tricky-java-code-challenges.main" target="21" />
+      <module name="cracking-tricky-java-code-challenges.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

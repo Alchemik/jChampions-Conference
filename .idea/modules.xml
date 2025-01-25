@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cracking-tricky-java-code-challenges.iml" filepath="$PROJECT_DIR$/cracking-tricky-java-code-challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking-tricky-java-code-challenges.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking-tricky-java-code-challenges.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking-tricky-java-code-challenges.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking-tricky-java-code-challenges.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jChampions-Conference.iml" filepath="$PROJECT_DIR$/.idea/jChampions-Conference.iml" />
+    </modules>
+  </component>
+</project>
