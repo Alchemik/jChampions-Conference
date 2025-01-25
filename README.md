@@ -1,5 +1,4 @@
-# jChampions Conference 2025
-
+![banner](banner.png)
 ## Thursday, January 23, 2025
 
 - **3:00pm CET** - **[Java's Concurrency Journey Continues! Exploring Structured Concurrency and Scoped Values](https://www.youtube.com/watch?v=w2COJX-1mgU)**  
